@@ -129,7 +129,7 @@ def l():
         pass
     else:
         h[0] = 180
-#Right
+#right
 def r():
     if h[0] == 180:
         pass
